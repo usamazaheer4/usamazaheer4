@@ -1,5 +1,9 @@
-### Hi there 👋
 
+- 👋 Hi, I’m @usamazaheer4
+- 👀 I’m interested in Backend development Using Java
+- 🌱 I’m currently learning and implementing different techniques of Microservices communication stratigies
+- 💞️ I’m looking to collaborate on Service Oriented Solution Designs
+- 📫 You can reach me through my email "usamazaheer65@gmail.com"
 <!--
 **usamazaheer4/usamazaheer4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
